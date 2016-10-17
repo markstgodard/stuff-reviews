@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "reviewer": "Walter White",
+    "description": "Loved it!",
+    "stars": 4
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "reviewer": "Marla Singer",
+    "description": "Pretty good",
+    "stars": 3
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "reviewer": "Raymond Hessel",
+    "description": "Awesome movie!",
+    "stars": 5
+  }
+]
