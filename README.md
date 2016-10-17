@@ -1,3 +1,3 @@
-# Stuff Products
+# Stuff Reviews
 ## About
-Products service
+Reviews service
